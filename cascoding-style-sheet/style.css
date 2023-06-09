@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+    outline: 0;
+}
+#header{
+    height: 570px;
+    width: 1200px;
+    background-color: aliceblue;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+.color{
+    color: salmon;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.header-description{
+    width: 550px;
+    float: left;
+    
+}
+.header-deteils{
+    height: 300px;
+    width: 400px;
+    margin: 50px;
+}
+.header-deteils h1{
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.header-deteils h2{
+    font-size: 26px;
+}
+.header-deteils p{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.header-img{
+    width: 550px;
+    float: left;
+    padding: 60px 0px 20px 60px;
+}
+.header-img img{
+    width: 400px;
+    height: 400px;
+}
+
+
+#midel{
+   
+    height: 800px;
+    width: 1200px;
+    margin: auto;
+    border: 1px solid red;
+}
+.bg-img{
+    background-image: url(../images/biography-bg.png);
+    height: 100vh;
+    width: 100vh;
+}
+.midel-img{
+    height: 190px;
+    border: 1px solid yellowgreen;
+}
+.midel-info{
+    height: 190;
+
+}
